@@ -25,7 +25,7 @@ _____________________________________
 
 ```
 
-### My Social Network
+### My Socials Network
 
 ```c#
 _____________________________________
@@ -34,5 +34,10 @@ Instagram : SluwID
 Discord ID : 990974461513719849 
 _____________________________________
 ```
+### My Github's Stats
+<p align='center'>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=sluwid&count_private=true&line_height=21&show_icons=true&hide_border=true&theme=midnight-purple"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sluwid&layout=compact&card_width=445&hide_border=true&theme=midnight-purple"/>
+</p>
 
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)

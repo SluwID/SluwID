@@ -1,4 +1,4 @@
-### Hello i'm SluwID ☄️
+### Hello I'm SluwID ☄️
 
 - My Skills 
 - Programming Languages : JS, TS, PHP, PYTHON

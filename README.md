@@ -33,3 +33,5 @@ Github : SluwID
 Instagram : SluwID
 Discord ID : 990974461513719849 
 _____________________________________
+
+  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
